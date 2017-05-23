@@ -1,7 +1,7 @@
 > __Vitor Barbosa Tavares de Freitas__  
-Brazilian, from Rio de Janeiro  
+Brazilian, from Rio de Janeiro 
 __Contact__: vitor.tfreitas@gmail.com | http://vtrbtf.com/ | https://br.linkedin.com/in/vtrbtf/en  
-__Current Role__: Software Consultant  
+__Current Role__: Senior Software Consultant  
 
 ### Description ( __TL; DR__ )
 I'm a software developer, with 5 years of experience ( until Set/2016 ), working full time with web development and with a great deal of experience with Retail products.  
@@ -20,8 +20,9 @@ Also, I'm very interested in the following subjects:
 I've started my carer with 17 years old, being an Internal on Hardware settings. After going thought high school, I finished a Java SE and EE course. At 18 I've started as a Junior Software Developer on Rio de Janeiro.
 
 - Internal at `Petroleo Brasileiro SA (Petrobras)` (2011)
-- Junior Software developer at `B2W Digital` (2012 - 2015)
-- Software Consultant at `ThoughtWorks` (2015 - now )
+- Software developer at `B2W Digital` (2012 - 2015)
+- Software Consultant at `ThoughtWorks` (2015 - 2016 )
+- Senior Software Consultant at `ThoughtWorks` (2017 - now )
 
 ##### `B2W Digital` experience
 `B2W Digital` is the biggest on-line retail store on Latin America. There I was introduced to many new technologies and mindsets, such as distributed systems, agile culture, product development and so on. I was part of a great team, which excelled on building resilient products, dealing with crucial zero downtime applications, and exercising a lean software development culture. We also worked with state of the art technologies ( at the time ), such as `Docker, Mesos/Marathon, Functional Java, NoSQLs ( Mongo, Riak, ElasticSearch, Solr ), AWS, RESTful services`. I also had experiences dealing with Black Friday events and being a teacher for Internal developers.
@@ -36,16 +37,23 @@ I also had in depth Continuous Deployment experience in one of our projects.
 
 #### Languages
 ```   
-★★★   Java, Groovy
-★★    Bash, Javascript (Node.js), Python, Go
-★     Scala, Clojure, R
+★★★   Java, Groovy, Bash
+★★    Javascript (Node.js), Python, Go
+★     Scala, Clojure, R, Erlang
 ```
 
-#### Testing
+#### Architecture 
 ```   
-★★★   Load testing   
+★★★   Microservices, API Development, Enterprise Service Bus, PR Based Development
+★★    OAuth/OpenId Authentication Flows, Distributed Coordination, Reactive Architectures
+★     Cloud Provisioning ( Terraform / AWS Cloud Formation ), Contract testing
+```
+
+#### Troubleshooting
+```   
+★★★   Load testing, 
 ★★    Performance testing
-★     Contract testing
+★     Profiling ( VisualVM and JProfiler )
 ```
 
 #### Data Science
@@ -67,4 +75,11 @@ I also had in depth Continuous Deployment experience in one of our projects.
 ★★★   Docker, CloudFoundry, AWS, APMs (NewRelic, AppDynamics...)
 ★★    Heroku, ELK (logs)
 ★     OpenStack, ZooKeeper, Infra as Code ( Ansible )
+```
+
+#### Techinical Legacy 
+```   
+★★★   Grails, JSF, Struts, JMeter, Drools, SOAP
+★★    Weblogic, Jetty, Tomcat, Vertx
+★     Angular
 ```
