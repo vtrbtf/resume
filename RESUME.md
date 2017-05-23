@@ -46,7 +46,7 @@ I also had in depth Continuous Deployment experience in one of our projects.
 ```   
 ★★★   Microservices, API Development, Enterprise Service Bus, PR Based Development
 ★★    OAuth/OpenId Authentication Flows, Distributed Coordination, Reactive Architectures
-★     Cloud Provisioning ( Terraform / AWS Cloud Formation ), Contract testing
+★     lambda architecture, Cloud Provisioning ( Terraform / AWS Cloud Formation ), Contract testing
 ```
 
 #### Troubleshooting
@@ -74,12 +74,12 @@ I also had in depth Continuous Deployment experience in one of our projects.
 ```   
 ★★★   Docker, CloudFoundry, AWS, APMs (NewRelic, AppDynamics...)
 ★★    Heroku, ELK (logs)
-★     OpenStack, ZooKeeper, Infra as Code ( Ansible )
+★     OpenStack, ZooKeeper, Infra as Code ( Ansible/Chef )
 ```
 
-#### Techinical Legacy 
+#### Techinical Legacy, Frameworks and other stuff
 ```   
-★★★   Grails, JSF, Struts, JMeter, Drools, SOAP
-★★    Weblogic, Jetty, Tomcat, Vertx
-★     Angular
+★★★   Grails, JSF, Struts, JMeter, Drools, SOAP, ORMs ( Hibernate ), GOF Design Patterns
+★★    Weblogic, Jetty, Tomcat, Vertx, Express
+★     Angular, Neo4J, Finagle 
 ```
