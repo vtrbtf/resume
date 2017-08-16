@@ -1,27 +1,27 @@
-> __Vitor Barbosa Tavares de Freitas__
-Brasileiro, do Rio de Janeiro
-__Contato__: vitor.tfreitas@gmail.com | http://vtrbtf.com/ | https://br.linkedin.com/in/vtrbtf/pt
-__Cargo atual__: Consultor de Software Senior @ ThoughtWorks
-__Localização atual__: Porto Alegre - RS - Brasil
+> __Vitor Barbosa Tavares de Freitas__  
+Brasileiro, do Rio de Janeiro  
+__Contato__: vitor.tfreitas@gmail.com | http://vtrbtf.com/ | https://br.linkedin.com/in/vtrbtf/pt  
+__Cargo atual__: Consultor de Software Senior @ ThoughtWorks  
+__Localização atual__: Porto Alegre - RS - Brasil  
 
 ### Descrição (__TL; DR__)
-Desenvolvedor desde Janeiro de 2012, com boa experiencia com arquitetura de serviços, desenvolvimento ágil e desenvolvimento web em geral.
+Desenvolvedor desde Janeiro de 2012, com boa experiência com arquitetura de serviços, desenvolvimento ágil e desenvolvimento web em geral.
 Em todos esses anos, meu domínio de atuação geral foi em Retail (como desenvolvedor e consultor), mas tenho procurado um domínio novo para outros tipos de desafios.
 
-Como consultor, tive oportunidade de trabalhar com o mercado norte-americano por alguns anos, o que também agregou na minha experiencia profissional e crescimento técnico.
-Como desenvolvedor de produto, tive a chance de poder aplicar técnicas Lean. O product ownership possibilitou a incorporação de cultura DevOps dentro dos produtos e a experiencia com Infra e Operação.
+Como consultor, tive oportunidade de trabalhar com o mercado norte-americano por alguns anos, o que também agregou na minha experiência profissional e crescimento técnico.
+Como desenvolvedor de produto, tive a chance de poder aplicar técnicas Lean. O product ownership possibilitou a incorporação de cultura DevOps dentro dos produtos e a experiência com Infra e Operação.
 
-A plataforma de desenvolvimento que mais utilizei nesses anos foi Java, desde apps legados até serviços modernos de baixa latência. Porém, já utilizei de outras plataformas em projetos menores, como Node, Python, Groovy, Scala e Go.
+A plataforma de desenvolvimento que mais utilizei nesses anos foi `Java`, desde apps legados até serviços modernos de baixa latência. Porém, já utilizei de outras plataformas em projetos menores, como Node, Python, Groovy, Scala e Go.
 
-Alem dessas plataformas, também tenho experiencia e interesse em Desenvolvimento de APIs e Produtos, sistemas distribuídos, serviços e arquiteturas reativas, ciência de dados com foco em ML, cultura DevOps com foco em CD, persistência NoSQL, sistemas de mensageira de alta disponibilidade ( e.g Kafka ), monitoria de performance.
+Alem dessas plataformas, também tenho experiência e interesse em Desenvolvimento de APIs e Produtos, sistemas distribuídos, serviços e arquiteturas reativas, ciência de dados com foco em ML, cultura DevOps com foco em CD, persistência NoSQL, sistemas de mensageira de alta disponibilidade ( e.g Kafka ), monitoria de performance.
 
 ### Experiência
 
 Eu comecei meu cuidador com 17 anos, sendo um interno em configurações de hardware. Depois de pensar no ensino médio, terminei um curso de Java SE e EE. Aos 18 anos eu comecei como Desenvolvedor de Software Júnior no Rio de Janeiro.
 
 - Interno no `Petroleo Brasileiro SA (Petrobras)` (2011)
-- Desenvolvedor de software júnior no `Ideais Tecnologia` (2012 - 2015)
-- Desenvolvedor de software em `B2W Digital` (2012 - 2015)
+- Desenvolvedor de software júnior no `Ideais Tecnologia` (2012 - 2013)
+- Desenvolvedor de software em `B2W Digital` (2013 - 2015)
 - Consultor de Software no `ThoughtWorks` (2015 - 2016)
 - Senior Software Consultant no `ThoughtWorks` (2017 - agora)
 
@@ -78,7 +78,7 @@ Experiência técnica inclui:
 - PullRequest based development ( with PR automatically deploys )
 - Pivotal Cloud Foundry
 
-### Conhecimento tecnico
+### Conhecimento técnico
 
 #### Linguagens
 ```   
@@ -101,7 +101,7 @@ Experiência técnica inclui:
 ★     Profiling ( VisualVM e JProfiler )
 ```
 
-#### Ciencia de dados
+#### Ciência de dados
 ```   
 ★★★   
 ★★    Exploratory Data Analysis

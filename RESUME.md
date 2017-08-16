@@ -20,8 +20,8 @@ API and Product Development, distributed systems, reactive architecture and serv
 I've started my carer with 17 years old, being an Internal on Hardware settings. After going thought high school, I finished a Java SE and EE course. At 18 I've started as a Junior Software Developer on Rio de Janeiro.
 
 - Internal at `Petroleo Brasileiro SA (Petrobras)` (2011)
-- Junior Software developer at `Ideais Tecnologia` (2012 - 2015)
-- Software developer at `B2W Digital` (2012 - 2015)
+- Junior Software developer at `Ideais Tecnologia` (2012 - 2013)
+- Software developer at `B2W Digital` (2013 - 2015)
 - Software Consultant at `ThoughtWorks` (2015 - 2016 )
 - Senior Software Consultant at `ThoughtWorks` (2017 - now )
 
