@@ -17,9 +17,7 @@ Alem dessas plataformas, também tenho experiência e interesse em Desenvolvimen
 
 ### Experiência
 
-Eu comecei meu cuidador com 17 anos, sendo um interno em configurações de hardware. Depois de pensar no ensino médio, terminei um curso de Java SE e EE. Aos 18 anos eu comecei como Desenvolvedor de Software Júnior no Rio de Janeiro.
-
-- Interno no `Petroleo Brasileiro SA (Petrobras)` (2011)
+- Estagiário na `Petroleo Brasileiro SA (Petrobras)` (2011)
 - Desenvolvedor de software júnior no `Ideais Tecnologia` (2012 - 2013)
 - Desenvolvedor de software em `B2W Digital` (2013 - 2015)
 - Consultor de Software no `ThoughtWorks` (2015 - 2016)
@@ -91,7 +89,7 @@ Experiência técnica inclui:
 ```   
 ★★★   Microservices, API Development, Enterprise Service Bus, PR Based Development
 ★★    OAuth/OpenId Authentication Flows, Distributed Coordination, Reactive Architectures
-★     lambda architecture, Cloud Provisioning ( Terraform / AWS Cloud Formation ), Contract testing
+★     Serverless architecture, Cloud Provisioning ( Terraform / AWS Cloud Formation ), Contract testing
 ```
 
 #### Troubleshooting
