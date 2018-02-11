@@ -1,128 +1,73 @@
 > __Vitor Barbosa Tavares de Freitas__  
 Brasileiro, do Rio de Janeiro  
-__Contato__: vitor.tfreitas@gmail.com | http://vtrbtf.com/ | https://br.linkedin.com/in/vtrbtf/pt  
-__Cargo atual__: Consultor de Software Senior @ ThoughtWorks  
+__Contato__: vitor.tfreitas@gmail.com | http://vtrbtf.com/ | https://linkedin.com/in/vtrbtf/  
+__Cargo atual__: Consultor de Software Senior na ThoughtWorks Brasil  
 __Localização atual__: Porto Alegre - RS - Brasil  
 
-### Descrição (__TL; DR__)
-Desenvolvedor desde Janeiro de 2012, com boa experiência com arquitetura de serviços, desenvolvimento ágil e desenvolvimento web em geral.
-Em todos esses anos, meu domínio de atuação geral foi em Retail (como desenvolvedor e consultor), mas tenho procurado um domínio novo para outros tipos de desafios.
+Profissional de TI desde 2011 e engenheiro de software por mais de 6 anos, atuando no dominio de Retail (como desenvolvedor e consultor), com experiência em arquitetura de serviços web, desenvolvimento e governança de APIs, desenvolvimento ágil, DevOps e sistemas distribuidos. Bastante experiente com __Java, Groovy e NodeJS__. Familiaridade com Go, Clojure e Python. 
 
-Como consultor, tive oportunidade de trabalhar com o mercado norte-americano por alguns anos, o que também agregou na minha experiência profissional e crescimento técnico.
-Como desenvolvedor de produto, tive a chance de poder aplicar técnicas Lean. O product ownership possibilitou a incorporação de cultura DevOps dentro dos produtos e a experiência com Infra e Operação.
+# Experiência
 
-A plataforma de desenvolvimento que mais utilizei nesses anos foi `Java`, desde apps legados até serviços modernos de baixa latência. Porém, já utilizei de outras plataformas em projetos menores, como Node, Python, Groovy, Scala e Go.
+## ThoughtWorks
 
-Alem dessas plataformas, também tenho experiência e interesse em Desenvolvimento de APIs e Produtos, sistemas distribuídos, serviços e arquiteturas reativas, ciência de dados com foco em ML, cultura DevOps com foco em CD, persistência NoSQL, sistemas de mensageira de alta disponibilidade ( e.g Kafka ), monitoria de performance.
+### Consultor de Software Senior [Porto Alegre - 2017/Hoje]
+Desenvolvimento de diversas soluções de segurança e governaça de APIs para um grande cliente norte americano, trabalhando temporariamente em San Francisco. 
 
-### Experiência
+- Junto com time de InfoSec, trabalhamos para construir uma solução de autenticação/autorização baseada em  __OAuth 2 e OIDC__, para todos os serviços do cliente, introduzindo uma camada a mais de segurança nas APIs
+- Criação de ferramental de suporte ao Apigee para um melhor processo governança de APIs internas  
+- Criação de uma pipeline completa de deployment e testes para asegurar integridade da arquitetura de forma continua
 
-- Estagiário na `Petroleo Brasileiro SA (Petrobras)` (2011)
-- Desenvolvedor de software júnior no `Ideais Tecnologia` (2012 - 2013)
-- Desenvolvedor de software em `B2W Digital` (2013 - 2015)
-- Consultor de Software no `ThoughtWorks` (2015 - 2016)
-- Senior Software Consultant no `ThoughtWorks` (2017 - agora)
+> Integração com Apigee utilizando __Java e NodeJS__
+> TODO  
+> Pipe line as Code  
+> Node.js  
+> PullRequest based development ( with PR automatically deploys )  
+> Pivotal Cloud Foundry  
 
-##### Experiência na `Ideais Tecnologia`
-Entrega Ágil para B2W Digital, com projetos em varias frentes na plataforma de e-commerce, incluindo desenvolvimento de features e suporte para projetos como:
-- Carrinho de Compras
-- Catalogo
-- Solicitação de Cartão da Marca
-- Administrador Promocional.
+### Consultor de Software [São Paulo - 2016/2017]
+Participação de projetos internos em São Paulo na area de front-end (6 meses) e recolocação para Porto Alegre. Em Porto Alegre trabalhei com um grande cliente norte americano de Retail, onde pude ajudar com entrega agil e transformação digital. 
 
-Experiência técnica inclui:
-- Desenvolvimento Ágil com Scrum e Kanban
-- Java com Stack principal. Weblogic como App Server
-- SOA com SOAP Services entre Customer Apps e Back Office apps
-- Enterprise Integration Patterns
-- Automação do ambiente de desenvolvimento com Python e Shell
+- Time pioneiro em nova arquitetura dentro do cliente, trabalhando com CI servers (__Jenkins__) descentralizados, Pipeline as code com __Groovy__, __Cloud Foundry__ como plataforma principal e __Apigee__ como Gateway para as APIs. Novo Standard gerado pelo time ajudou o cliente a conseguir o _time to market_ desejado, com aplicações em produção em 10 minutos.   
 
-##### Experiência na `B2W Digital`
-Desenvolvimento de serviços REST de alta disponibilidade, na sua grande maioria do domínio promocional. Utilizando product mindset e com ownership com produto, tive oportunidade de participar de uma cultura de colaboração com Infra e Ops, utilizando de ferramental moderno para entrega, monitoria e operação das aplicações. Alem disso, tivemos um foco muito grande em soluções para persistência, tendo contato com muitos tipos de NoSQL diferentes
-Produtos desenvolvidos:
-- Engine de preço promocionado
-- Engine de frete
-- Serviço de Parcelamento
-- Engine de conteúdo
-- Serviço de cupom
+> Apps eram APIs REST baseadas em __Java e Spring Boot__, usando __Sleuth__ para tracing junto com __Splunk__ e __Hystrix__ para Circuit Breaker entre outros recursos.  
+> Também implementamos BlueGreen deployment and Deployment tracking para asegurar consistencia na pipeline. 
 
-Experiência técnica inclui:
-- Incorporação de cultura DevOps
-- Desenvolvimento Lean
-- Continuous Deployment
-- Cloud architecture ( public / private ) com AWS, OpenStack e Mesos/Marathon ( Docker )
-- NoSQLs ( Mongo, Riak, Solr e Elastic Search)
+--------
 
-##### Experiência na `ThoughtWorks` como `Consultant`
-Trabalhando como Consultor de Software, com um breve começo ( 6 meses ) em São Paulo e depois indo para PoA, para poder trabalhar com Retail. Em PoA, tive oportunidade de trabalhar com um grande cliente norte americano, onde consegui agregar bastante profissionalmente e técnicamente.
-Com foco em ajudar os times de desenvolvimento, trabalhei ajudando o time a construir APIs para diversos domínios dentro de Retail, com foco grande em CI/CD.
+## B2W Digital
 
-Experiência técnica inclui:
-- Incorporação de cultura DevOps
-- Pipeline as Code
-- BlueGreen deployment and Deployment tracking
-- PullRequest based development ( with PR automatically deploys )
-- Pivotal Cloud Foundry
-- Rest and GraphQL
+### Desenvolvedor Pleno  [Rio de Janeiro - 2012/2016]
 
-##### Experiência na `ThoughtWorks` como `Senior Consultant`
-Trabalhando como Consultor de Software em Porto Alegre, para uma grande empresa de Retail. Lá tive oportunidade de trabalhar com um cliente norte americano.
-Com foco em ajudar os times de desenvolvimento, trabalhei ajudando o time a construir APIs para diversos domínios dentro de Retail, com foco grande em CI/CD, tendo como principal projeto, uma solução de Autenticação e Autorização utilizando do protocolo OpenId Connect 1.0
+Desenvolvimento de  __microserviços__ REST de alta disponibilidade em __Java__, na sua grande maioria do domínio promocional dos sites Americanas.com, Submarino.com, Shoptime.com e Soubarato.com, com a oportunidade de participar de uma cultura __DevOps__, utilizando de ferramental moderno para entrega, provisionamento, monitoria e operação das aplicações. Alem de ter um foco grande em soluções para persistência, tendo ownership sobre toda a infraestrutura dos produtos.
 
-Experiência técnica inclui:
-- OAuth 2 e OIDC
-- Pipeline as Code
-- Node.js
-- PullRequest based development ( with PR automatically deploys )
-- Pivotal Cloud Foundry
+- Desenvolvimento da API e arquitetura (baseada na __AWS__) da engine de promoção de produtos, que era responsável pela avaliação e aplicação de promoções para todos os produtos dos sites, tendo diversos desafios de escalabilidade dado o alto volume de trafego (~500k rpm).    
+- Desenvolvimento da API e arquitetura (baseada em __Docker__) das aplicações de frete e parcelamento, usando __Mongo__ para o storage de todas as regras, resolvendo nosso problema de CPU intensive tasks.  
+- Participação no desenvolvimento da API e arquitetura (baseada em __OpenStack__) do serviço de Cupom, onde usavamos __Ansible__ para o provisionamento da App e __Riak__ para persistencia. 
+- Desenvolvimento do Administrador de parceiros promocionais, feita em __Grails__.
+- Professor no programa de estagio  
 
-### Conhecimento técnico
+> Desenvolvimento de __APIs__ de alto volume baseadas em __Java__(usando Functional Programing) com __Spring Boot, Hazelcast e Vertx__. __Wiremock__ para testes de integração e __Gatling__ para load tests.    
+> Monitoria de toda a infra dos microserviços usando __Sensu, NewRelic, AppDynamics__. Logs e Metricas com __ELK__. Troubleshooting e Profiling via __JProfiler e VisualVM__    
+> Adoção de cultura __DevOps__ e Desenvolvimento de Produto Lean   
+> Automatização de processos usando __Groovy e Bash__
+> Continuous Deployment e Integration usando diversas arquiteturas em Cloud __AWS__, __OpenStack__ e __Docker__ (via Orquestração Mesos/Marathon)  
+> Uso constante de NoSQLs (__Mongo, Riak, Solr e Elastic Search__) para os microserviços de promoção/busca  
 
-#### Linguagens
-```   
-★★★   Java, Groovy, Bash
-★★    Javascript (Node.js), Python, Go
-★     Scala, Clojure, R, Erlang
-```
+### Desenvolvedor Junior [Rio de Janeiro - 2012/2013]
+Projetos em varias frentes na plataforma de e-commerce dos sites, incluindo todo o ciclo de desenvolvimento de features e suporte das aplicações. 
 
-#### Arquitetura
-```   
-★★★   Microservices, API Development, Enterprise Service Bus, PR Based Development
-★★    OAuth/OpenId Authentication Flows, Distributed Coordination, Reactive Architectures
-★     Serverless architecture, Cloud Provisioning ( Terraform / AWS Cloud Formation ), Contract testing
-```
+- Manutenção do projeto legado do __Carrinho de compras__ de todas as marcas, utilizando de boas praticas como __TDD, CI, Load testing, Design Patterns__, entre outros.  
+- Desenvolvimento do serviço de fidelidade para o Submarino.com, que servia como portal para a solicitação dos cartões __Submarino__, incluindo o uso de SOA para a integração entre BackOffice apps e filas (__ActiveMQ__).
+- Unificado a engine de promoções de todas as marcas entre __Carrinho de compras__ e __Catálogo__, solucionando o problema de promoções diferentes entre aplicações. 
 
-#### Troubleshooting
-```   
-★★★   Load testing,
-★★    Performance testing
-★     Profiling ( VisualVM e JProfiler )
-```
+> Desenvolvimento Ágil com Scrum e Kanban   
+> __Java, Spring, JSF, Hibernate, Weblogic, Gradle, ActiveMQ, Oracle__ como Stack principal. Apps menores em __Groovy e Python__  
+> SOA com SOAP Services entre Customer facing Apps e Back Office apps, além do uso de Enterprise Integration Patterns para soluções distribuidas.  
+> Continuous Delivery e Continuos Integration(usando __Atlassian Bamboo__)
 
-#### Ciência de dados
-```   
-★★★   
-★★    Exploratory Data Analysis
-★     Regression Models, PCA
-```
+--------
 
-#### Data Storage
-```   
-★★★   Mongo, Redis, ElasticSearch   
-★★    Solr, Riak, Oracle
-★     Cassandra
-```
+## Petrobras
+### Estagio como Técnico de suporte de informática [Rio de Janeiro - 2011] 
+Prestando suporte técnico aos usuarios do departamento juridico da Petrobras. Tarefas eram basicamente de montagem e manutenção de computadores e servidores.
 
-#### Plataformas e Tooling
-```   
-★★★   Docker, CloudFoundry, AWS, APMs (NewRelic, AppDynamics...)
-★★    Heroku, ELK (logs)
-★     OpenStack, ZooKeeper, Infra as Code ( Ansible/Chef )
-```
-
-#### Outros
-```   
-★★★   Grails, JSF, Struts, JMeter, Drools, SOAP, ORMs ( Hibernate ), GOF Design Patterns
-★★    Weblogic, Jetty, Tomcat, Vertx, Express
-★     Angular, Neo4J, Finagle
-```
