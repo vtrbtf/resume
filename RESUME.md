@@ -1,21 +1,15 @@
 > __Vitor Barbosa Tavares de Freitas__  
-Brazilian, from Rio de Janeiro
-__Contact__: vitor.tfreitas@gmail.com | http://vtrbtf.com/ | https://br.linkedin.com/in/vtrbtf/en  
-__Current Role__: Senior Software Consultant @ ThoughtWorks  
-__Current Location__: Porto Alegre - RS - Brazil
+Brazilian, from Rio de Janeiro, currently based on Porto Alegre - Brazil
+__Contact__: vitor.tfreitas@gmail.com | +55 21 979769008 | http://vtrbtf.com/ | https://br.linkedin.com/in/vtrbtf/en  
+__Current Role__: Senior Software Consultant at ThoughtWorks  
 
-### Description ( __TL; DR__ )
-I'm a software developer, with almost 6 years of experience, and with a great deal of experience in Services Architecture, Web and Agile development. In all those years, my main domain experience was in Retail products (as in-house developer or consultant), but recently, I've been looking for new domain opportunities, such as fin tech or software development products.
+IT Professional since 2011 and software engineer for more than 6 years, working with Retail software products, with experience in many domains such as architecture of services and WEB applications, APIs development and managment, agile development, DevOps culture and distributed systems. Strong experience in __Java, Groovy and NodeJS__, with some experience in Go, Clojure e Python.
 
-As a consultant, I had the opportunity to work with the north America market for a few years. That kind of experience had a big impact in my career journey and technical knowledge.
-As a product developer, I had the chance to apply Lean and Product software development techniques into the workflow. That helped to incorporate DevOps mindset, making use of a big tooling box into our development process. Continuous deployment was a day-to-day practice.
+# Experience
 
-The main platform that I've worked with is Java. All the way from legacy systems to modern low latency microservices. However, I also had experience in smaller contexts to other platforms, like Node, Python, Groovy, Scala and Go.
+## ThoughtWorks
+### Senior Software Consultant _[2017/Hoje]_
 
-Besides software platforms, I had experience and interest in some subjects, such as
-API and Product Development, distributed systems, reactive architecture and services, data science (ML focused), DevOps culture (focused on CD), NoSQL and high throughput messaging systems (e.g Kafka), performance monitoring.
-
-### Experience
 
 I've started my carer with 17 years old, being an Internal on Hardware settings. After going thought high school, I finished a Java SE and EE course. At 18 I've started as a Junior Software Developer on Rio de Janeiro.
 
