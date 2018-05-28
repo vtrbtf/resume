@@ -7,8 +7,13 @@ Profissional de TI desde 2011 e engenheiro de software por mais de 6 anos, atuan
 
 # Experiência
 
+## OLX Brasil
+### Engenheiro de Software Sênior _____[Rio de Janeiro - 2018/Hoje]_
+Desenvolvimento de APIs e produtos internos e externos relacionados a monetização e importação em massa de third parties
+> Detalhes sobre produtos internos são confidenciais e não serão expostos
+
 ## ThoughtWorks
-### Consultor de Software Sênior _[Porto Alegre - 2017/Hoje]_
+### Consultor de Software Sênior _[Porto Alegre - 2017/2018]_
 Desenvolvimento de diversas soluções de segurança e governança de APIs para um grande cliente norte-americano, trabalhando temporariamente em San Francisco. 
 
 - Junto com time de InfoSec, trabalhamos para construir uma solução de autenticação/autorização baseada em  __OAuth 2 e OIDC__, para todos os serviços do cliente, introduzindo uma camada a mais de segurança nas APIs
@@ -20,6 +25,7 @@ Desenvolvimento de diversas soluções de segurança e governança de APIs para 
 > - Criação de OIDC clients usando __NodeJS__ 
 > - Treinamento de times do cliente para introdução a __OAuth2__ e __OIDC__ 
 
+
 ### Consultor de Software _[São Paulo - 2016/2017]_
 Participação de projetos internos em São Paulo na área de front-end (6 meses) e recolocação para Porto Alegre. Em Porto Alegre trabalhei com um grande cliente norte-americano de Retail, onde pude ajudar com entrega ágil e transformação digital. 
 
@@ -29,6 +35,8 @@ Participação de projetos internos em São Paulo na área de front-end (6 meses
 > - Implementação de blue-green deployment e deployment tracking (via __NewRelic__) para assegurar consistência da pipeline. 
 > - Auxílio ao time de recrutamento participando de avaliações no processo seletivo técnico.
 
+
+> Detalhes sobre clientes da ThoughtWorks são confidenciais e não serão expostos
 --------
 
 ## B2W Digital
