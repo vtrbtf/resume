@@ -64,16 +64,15 @@ Projetos em várias frentes na plataforma de e-commerce dos sites, incluindo tod
 - Desenvolvimento do serviço de fidelidade para o Submarino.com, que servia como portal para a solicitação dos cartões __Submarino__, incluindo o uso de SOA para a integração entre BackOffice apps e filas (__ActiveMQ__).
 - Unificado a engine de promoções de todas as marcas entre __Carrinho de compras__ e __Catálogo__, solucionando o problema de promoções diferentes entre aplicações. 
 
-> - Desenvolvimento Ágil com Scrum e Kanban   
 > - __Java, Spring, JSF, Hibernate, Weblogic, Gradle, ActiveMQ, Oracle__ como Stack principal. Apps menores em __Groovy e Python__  
 > - SOA com SOAP Services entre Customer facing Apps e Back Office apps, além do uso de Enterprise Integration Patterns para soluções distribuídas.  
-> - Continuous Delivery e Continuos Integration (usando __Atlassian Bamboo__)
+> - Desenvolvimento Ágil com Scrum e Kanban. Continuous Delivery e Continuos Integration (usando __Atlassian Bamboo__)
 
 --------
 
 ## Petrobras
 ### Estágio como Técnico de suporte de informática _[Rio de Janeiro - 2011]_ 
-Prestando suporte técnico aos usuários do departamento jurídico da Petrobras. Tarefas eram basicamente de montagem e manutenção de computadores e servidores.
+Prestando suporte técnico aos usuários do departamento jurídico da Petrobras.
 
 
 # Educação
