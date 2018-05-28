@@ -58,8 +58,7 @@ Desenvolvimento de  __microserviços__ REST de alta disponibilidade em __Java__,
 > - Uso constante de NoSQLs (__Mongo, Riak, Solr e Elastic Search__) para os microserviços de promoção/busca  
 
 ### Desenvolvedor Junior _[Rio de Janeiro - 2012/2013]_
-Projetos em várias frentes na plataforma de e-commerce dos sites, incluindo todo o ciclo de desenvolvimento de features e suporte das aplicações. 
-
+ 
 - Manutenção do projeto legado do __Carrinho de compras__ de todas as marcas, utilizando de boas práticas como __TDD, CI, Load testing, Design Patterns__, entre outros.  
 - Desenvolvimento do serviço de fidelidade para o Submarino.com, que servia como portal para a solicitação dos cartões __Submarino__, incluindo o uso de SOA para a integração entre BackOffice apps e filas (__ActiveMQ__).
 - Unificado a engine de promoções de todas as marcas entre __Carrinho de compras__ e __Catálogo__, solucionando o problema de promoções diferentes entre aplicações. 
@@ -73,7 +72,6 @@ Projetos em várias frentes na plataforma de e-commerce dos sites, incluindo tod
 ## Petrobras
 ### Estágio como Técnico de suporte de informática _[Rio de Janeiro - 2011]_ 
 Prestando suporte técnico aos usuários do departamento jurídico da Petrobras.
-
 
 # Educação
 - __FAETEC__ -  Técnico de Informática (2009 - 2011)
