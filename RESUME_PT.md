@@ -9,8 +9,7 @@ Profissional de TI desde 2011 e engenheiro de software por mais de 6 anos, atuan
 
 ## OLX Brasil
 ### Engenheiro de Software Sênior _[Rio de Janeiro - 2018/Hoje]_
-Desenvolvimento de APIs e produtos internos e externos relacionados a monetização e importação em massa de third parties
-> Detalhes sobre produtos internos são confidenciais e não serão expostos
+Desenvolvimento de APIs e produtos externos que servem como porta de entrada para os produtos internos da empresa e também orquestram todo o processo de importação de anuncios vindos de terceiros. Não posso compartilhar mais detalhes dado limitação por acordo de confidencialidade.
 
 ## ThoughtWorks
 ### Consultor de Software Sênior _[Porto Alegre - 2017/2018]_
