@@ -9,7 +9,7 @@ I've contributed to a lot of different sectors ( e.g. Products teams, cloud engi
 
 My background is Java based. However I have a good amount of experience in other languages/platforms, like NodeJS, Scala, Kotlin, Groovy. I also have some experience and interest in some subjects, such as APIs and RPCs services, distributed systems, data science (ML focused), CI/CD and release management, NoSQL and high throughput messaging systems (e.g Kafka) and monitoring 
 
-### Experience
+# Experience
 
 ## OLX Brasil
 ### Senior Software Engineer _[Rio de Janeiro - 2018/Today]_
