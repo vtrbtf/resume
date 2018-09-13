@@ -7,39 +7,37 @@ Software engineer with almost 7 years of work experience and with a great deal o
 
 I've contributed to a lot of different sectors ( e.g. Products teams, cloud engineering teams, consultant ). to different domains (e.g. Retail, Ads ) and to different markets ( e.g. C2C, B2C) . I've also worked with the US market for 2 years ( as a consultant for a big retail company )
 
-My background is Java based. However I have a good amount of experience in other languages/platforms, like NodeJS, Scala, Kotlin, Groovy. I also have some experience and interest in some subjects, such as APIs and RPCs services, distributed systems, data science (ML focused), CI/CD and release management, NoSQL and high throughput messaging systems (e.g Kafka) and monitoring 
+My background is Java based. However I have a good amount of experience in other languages/platforms, like NodeJS, Scala, Kotlin, Groovy. I also have some good experience and interest in some subjects, such as APIs and RPCs services, messaging systems, distributed systems, data science, NoSQLs, CI/CD and release management, performance monitoring and profiling
 
 # Experience
 
 ## OLX Brasil
 ### Senior Software Engineer _[Rio de Janeiro - 2018/Today]_
-Development of the external APIs and products that frontface the company's products to third parties and orchetrate the ad load import process. _I can not provide futher details due to confidentiality agreement._
+Development of the external high volume and high throughput APIs and products that frontface the company's products to third parties and orchetrate the ad load import process. We also had to use and build scalable and modular architectures to handle such load. 
+
+_I can not provide futher details due to a confidentiality agreement._
 
 -----
 
 ## ThoughtWorks
 ### Senior Software Consultant _[Porto Alegre - 2017/2018]_
-Development of variety of API governance and security solutions for a big american retail company, working as a consultant, temporarily working in San Francisco. 
+Development of variety of API governance and security solutions for a big american retail company, working as a consultant, temporarily working in San Francisco.
 
-Having the opportunity to participate on a retail account inside ThoughtWorks, I was able to help the team to create and delivery internal projects, all of them requiring API development and Continuous Delivery/Deploy skills.
-
-Technical experience:
+Experience:
 - OAuth 2 and OIDC protocols implementation
-- API Gateways
-- Pipeline as Code
-- Node.js
-- Pivotal Cloud Foundry
+- Company API Gateway's setup, auxiliary services ( such as API security )
+- Pivotal Cloud Foundry with Node.js and Java stacks
+- Azure and OpenStack 
 
 ### Software Consultant _[São Paulo - 2016/2017]_
-As a Thoughtworker I had my first consultant experience, with a brief start in São Paulo (city) and then moving to Porto Alegre, in order to engage in Retail clients. There, I had the opportunity to work with a big north America retail account. Although I had to work remotely, I was able to help the team to develop and delivery our projects, mainly working with REST APIs for many different domains
+Contributed to internal projects, mainly working on building a open source CMS, for 6 months. After that, I started to work for a big NA retail client, mainly developing and mantaining internal APIs. 
 
-Technical experience:
-- DevOps culture and CD day-to-day
-- Pipeline as Code
+Experience:
+- DevOps culture and Continuous Deployment 
+- Pipeline as Code and build/release management
 - BlueGreen deployment and Deployment tracking
-- PullRequest based development (with PR automatically deploys)
 - Pivotal Cloud Foundry
-- Rest and GraphQL
+- Rest and GraphQL with Spring Boot
 
 -----
 
@@ -68,7 +66,7 @@ Agile Delivery for the biggest e-commerce company in Brazil (`B2W Digital`), mai
 - Brand CC request
 - Promotion manager
 
-Technical expertise required:
+Technical expertise:
 - Agile Development with Scrum and Kanban
 - Java as main TechStack. Weblogic as App Server
 - SOA with SOAP Services interactions between Customer Apps and Back Office apps
