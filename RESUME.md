@@ -11,15 +11,15 @@ My background is Java based. However, I have a good amount of experience in othe
 # Experience
 
 ## OLX Brasil
-### Senior Software Engineer _[Rio de Janeiro - 2018/Today]_
-Development of high volume and high throughput APIs and products that front face the company's products to third parties and orchestrate the ad load import process. We also had to use and build scalable and modular architectures (on top of AWS) to handle such load.
+### Senior Software Engineer _[2018/Today]_
+Development of high volume and high throughput APIs and products that front face the company's products to third parties and orchestrate the ad load import process. OLX is the biggest brazillian C2C marketplace platform, so we also had to use and build scalable and modular architectures (on top of AWS) to handle such load. 
 
 _I can not provide further details due to a confidentiality agreement._
 
 -----
 
 ## ThoughtWorks
-### Senior Software Consultant _[Porto Alegre - 2017/2018]_
+### Senior Software Consultant _[2017/2018]_
 Development of variety of API governance and security solutions for a big American retail company, working as a consultant, temporarily working in San Francisco. The role was similar of an SRE.
 
 Some experience that I had includes:
@@ -28,8 +28,8 @@ Some experience that I had includes:
 - Pivotal Cloud Foundry with Node.js and Java stacks
 - Azure and OpenStack
 
-### Software Consultant _[São Paulo - 2016/2017]_
-Contributed to internal projects, mainly working on building an open source CMS, for 6 months. After that, I started to work for a big NA retail client, mainly developing and maintaining internal APIs.
+### Software Consultant _[2016/2017]_
+Contributed to internal projects, mainly working on building an open source CMS, for 6 months. After that, I started to work for a NA retail client, mainly developing and maintaining internal APIs.
 
 Some experience that I had includes:
 - DevOps culture and Continuous Deployment
@@ -41,8 +41,8 @@ Some experience that I had includes:
 -----
 
 ## B2W Digital
-### Mid level Software Developer  _[Rio de Janeiro - 2013/2016]_
-As a product engineer, I've contributed with the development of promotions and discounts related microservices for the biggest Brazilian ecommerce platform (B2W), mostly based on Java. We had to handle high load and deal with traffic spike in a daily basis. The team was autonomous, so we had to deal with every layer of the APIs architecture (planning, provisioning, persistence and so on). I was able to touch Operations and Infrastructure sides and as a consequence, contributing to our DevOps culture. We also worked with modern technologies (at the time), such as 'Docker, Mesos/Marathon, Functional Java, NoSQLs (Mongo, Riak, ElasticSearch, Solr), AWS, RESTful services'. I also had experiences dealing with Black Friday events and being a teacher for trainee developers.
+### Mid level Software Developer  _[2013/2016]_
+As a product engineer, I've contributed with the development of promotions and discounts related microservices for the biggest Brazilian ecommerce platform (B2W), mostly based on Java. We had to handle high load and deal with traffic spike in a daily basis. The team was autonomous, so we had to deal with every layer of the APIs architecture (planning, provisioning, persistence and so on). I was able to touch Operations and Infrastructure sides and as a consequence, contributing to our DevOps culture. I also had experiences dealing with Black Friday events and being a teacher for trainee developers.
 
 Developed products :
 - Promotions and discounts engine and service
@@ -59,15 +59,15 @@ Some experience that I had includes:
 - Cloud architecture (public / private) on AWS, OpenStack and Mesos/Marathon (Docker)
 - NoSQLs (Mongo, Riak, Solr e Elastic Search)
 
-### Junior Software Developer  _[Rio de Janeiro - 2012/2013]_
-Agile Delivery for the biggest e-commerce company in Brazil (`B2W Digital`), maintaining and adding new features to many customer facing legacy projects, such as:
+### Junior Software Developer  _[2012/2013]_
+Agile Delivery for the biggest e-commerce platform in Brazil (`B2W Digital`), maintaining and adding new features to many customer facing legacy projects, such as:
 
 - ShoppingBag and Checkout
 - Product Catalog
 - Brand CC request
 - Promotion manager
 
-Technical expertise:
+Some experience that I had includes:
 - Agile Development with Scrum and Kanban
 - Java as main TechStack. Weblogic as App Server
 - SOA with SOAP Services interactions between Customer Apps and Back Office apps
