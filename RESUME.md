@@ -1,5 +1,5 @@
 > __Vitor Barbosa Tavares de Freitas__  
-Brazilian, from Rio de Janeiro
+Brazilian, from Rio de Janeiro  
 __Contact__: vitor.tfreitas@gmail.com | http://vtrbtf.com/ | https://br.linkedin.com/in/vtrbtf/en  
 __Current Role__: Senior Software Consultant @ OLX Brasil  
 
