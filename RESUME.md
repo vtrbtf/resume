@@ -3,17 +3,17 @@ Brazilian, from Rio de Janeiro
 __Contact__: vitor.tfreitas@gmail.com | http://vtrbtf.com/ | https://br.linkedin.com/in/vtrbtf/en  
 __Current Role__: Senior Software Consultant @ OLX Brasil  
 
-Software engineer with almost 7 years of work experience and with a great deal of experience in software architecture, agile software development and devops culture. 
+Software engineer with almost 7 years of work experience and with a great deal of expertise in software architecture, agile software development and devops culture. 
 
 I've contributed to a lot of different sectors ( e.g. Products teams, cloud engineering teams, consultant ). to different domains (e.g. Retail, Ads ) and to different markets ( e.g. C2C, B2C) . I've also worked with the US market for 2 years ( as a consultant for a big retail company )
 
-My background is Java based. However I have a good amount of experience in other languages/platforms, like NodeJS, Scala, Kotlin, Groovy. I also have some good experience and interest in some subjects, such as APIs and RPCs services, messaging systems, distributed systems, data science, NoSQLs, CI/CD and release management, performance monitoring and profiling
+My background is Java based. However I have a good amount of experience in other languages/platforms, like NodeJS, Scala, Kotlin, Groovy. I also have some good experience and interest in some subjects, such as SRE, XP Practises, APIs and RPCs services, messaging systems ( and general distributed systems), data science, NoSQLs, CI/CD and release management, cloud providers, Infra as code, performance monitoring and profiling
 
 # Experience
 
 ## OLX Brasil
 ### Senior Software Engineer _[Rio de Janeiro - 2018/Today]_
-Development of the external high volume and high throughput APIs and products that frontface the company's products to third parties and orchetrate the ad load import process. We also had to use and build scalable and modular architectures to handle such load. 
+Development of the external high volume and high throughput APIs and products that frontface the company's products to third parties and orchetrate the ad load import process. We also had to use and build scalable and modular architectures (on top of AWS) to handle such load. 
 
 _I can not provide futher details due to a confidentiality agreement._
 
@@ -21,10 +21,10 @@ _I can not provide futher details due to a confidentiality agreement._
 
 ## ThoughtWorks
 ### Senior Software Consultant _[Porto Alegre - 2017/2018]_
-Development of variety of API governance and security solutions for a big american retail company, working as a consultant, temporarily working in San Francisco.
+Development of variety of API governance and security solutions for a big american retail company, working as a consultant, temporarily working in San Francisco. The role was similar of a SRE
 
-Experience:
-- OAuth 2 and OIDC protocols implementation
+Some of the experience that I had includes:
+- OAuth 2 and OIDC protocols implementation ( every entity of the 3 legged flow )
 - Company API Gateway's setup, auxiliary services ( such as API security )
 - Pivotal Cloud Foundry with Node.js and Java stacks
 - Azure and OpenStack 
@@ -32,7 +32,7 @@ Experience:
 ### Software Consultant _[São Paulo - 2016/2017]_
 Contributed to internal projects, mainly working on building a open source CMS, for 6 months. After that, I started to work for a big NA retail client, mainly developing and mantaining internal APIs. 
 
-Experience:
+Some of the experience that I had includes:
 - DevOps culture and Continuous Deployment 
 - Pipeline as Code and build/release management
 - BlueGreen deployment and Deployment tracking
