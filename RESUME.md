@@ -43,7 +43,7 @@ Some of the experience that I had includes:
 
 ## B2W Digital
 ### Mid level Software Developer  _[Rio de Janeiro - 2013/2016]_
-Working mainly with high available and high throughput microservices development for a single Retail domain (promotions and discounts). I had the opportunity to learn and join a great collaborative culture, with a product mindset and ownership. In that kind of environment, I was able to touch Operations and Infrastructure sides, creating a trusted relationship and DevOps culture. We also used a lot of tooling in order to create a monitoring infrastructure and help Ops visibility. Also, NoSQLs usage was something very familiar for us. I was part of a great team, which excelled on building resilient products, dealing with crucial zero downtime applications, and exercising a lean software development culture. We also worked with state of the art technologies ( at the time ), such as `Docker, Mesos/Marathon, Functional Java, NoSQLs ( Mongo, Riak, ElasticSearch, Solr ), AWS, RESTful services`. I also had experiences dealing with Black Friday events and being a teacher for Internal developers.
+As a product engineer, I've contributed with the development of promotions and discouts related microservices for the biggest brazillian ecommerce platform (B2W), mostly based on Java. We had to handle high load and deal with traffic spike in a daily basis. The team was autonomus, so we had to deal with every layer of the APIs architecture ( planning, provisioning, persistence and so on). I was able to touch Operations and Infrastructure sides and as a consequence, contribuiting to our DevOps culture. We also worked with modern technologies ( at the time ), such as `Docker, Mesos/Marathon, Functional Java, NoSQLs ( Mongo, Riak, ElasticSearch, Solr ), AWS, RESTful services`. I also had experiences dealing with Black Friday events and being a teacher for trainee developers. 
 
 Developed products :
 - Promotions and discounts engine and service
@@ -52,15 +52,17 @@ Developed products :
 - Content engine
 - Coupon service
 
-Technical experience:
+Some of the experience that I had includes:
 - DevOps culture
 - Lean software development
 - Continuous Deployment
+- Async services and messaging systems 
 - Cloud architecture (public / private) on AWS, OpenStack and Mesos/Marathon (Docker)
 - NoSQLs (Mongo, Riak, Solr e Elastic Search)
 
 ### Junior Software Developer  _[Rio de Janeiro - 2012/2013]_
-Agile Delivery for the biggest e-commerce company in Brazil (`B2W Digital`), maintaining and adding new features to many customer facing projects, such as:
+Agile Delivery for the biggest e-commerce company in Brazil (`B2W Digital`), maintaining and adding new features to many customer facing legacy projects, such as:
+
 - ShoppingBag and Checkout
 - Product Catalog
 - Brand CC request
@@ -70,8 +72,8 @@ Technical expertise:
 - Agile Development with Scrum and Kanban
 - Java as main TechStack. Weblogic as App Server
 - SOA with SOAP Services interactions between Customer Apps and Back Office apps
-- Enterprise Integration Patterns
-- Development environment automation
+- Design Patterns and Enterprise Integration Patterns
+- TDD and software quality 
 
 --------
 
