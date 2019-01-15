@@ -1,20 +1,20 @@
 > __Vitor Barbosa Tavares de Freitas__  
 Brazilian, from Rio de Janeiro  
 __Contact__: vitor.tfreitas@gmail.com | http://vtrbtf.com/ | https://br.linkedin.com/in/vtrbtf/en  
-__Current Role__: Senior Software Consultant @ OLX Brasil  
+__Current Role__: Senior Software Engineer @ OLX Brasil  
 
-Software engineer with almost 7 years of work experience and with a great deal of expertise in software architecture, agile software development and devops culture.
+Software engineer with 7+ years of work experience and with expertise in software architecture, agile software development and devops culture.
 
-I've contributed to a lot of different sectors (e.g. Products teams, cloud engineering teams, consultant), to different domains (e.g. Retail, Ads) and to different markets (e.g. C2C, B2C). I've also worked with the US market for 2 years (as a consultant for a big retail company)
+I've contributed to different kind of teams (e.g. products teams, cloud engineering teams, support teams), to different domains (e.g. Retail, Ads) and to different business markets (e.g. C2C, B2C). I've also worked with the US market for 2 years (as a consultant for a big retail company)
 
-My background is Java based. However, I have a good amount of experience in other languages/platforms, like NodeJS, Scala, Kotlin, Groovy. I also have some good experience and interest in some subjects, such as SRE, XP Practises, APIs and RPCs services, messaging systems (and general distributed systems), data science, NoSQLs, CI/CD and release management, cloud providers, Infra as code, performance monitoring and profiling.
+My background is Java based. However, I have a good amount of experience in other languages/platforms, like NodeJS, Kotlin, Groovy. I also have some good experience and interest in some subjects, such as SRE, XP Practises, APIs and RPCs services, messaging systems (and general distributed systems), data science, NoSQLs, CI/CD and release management, cloud providers, Infra as code, performance monitoring and profiling.
 # Experience
 
 ## OLX Brasil
 ### Senior Software Engineer _[2018/Today]_
-Development of high volume and high throughput APIs and products that front face the company's products to third parties and orchestrate the ad load import process. OLX is the biggest brazillian C2C marketplace platform, so we also had to use and build scalable and modular architectures (on top of AWS) to handle such load. 
+Development of high volume and high throughput products that orchestrate the ad load import process and front face the company's internal products to third parties. OLX is the biggest brazillian C2C marketplace platform, so we also had to use and build scalable and modular architectures (on top of AWS) to handle such load.  
 
-_I can not provide further details due to a confidentiality agreement._
+_I can not provide further details due to a NDA._
 
 -----
 
