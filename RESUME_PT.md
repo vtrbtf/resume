@@ -3,7 +3,7 @@ Brasileiro, do Rio de Janeiro, atualmente em Porto Alegre - RS
 __Contato__: vitor.tfreitas@gmail.com | (21) 97976-9008 | http://vtrbtf.com/ | https://linkedin.com/in/vtrbtf/  
 __Cargo atual__: Consultor de Software Sênior na ThoughtWorks Brasil
 
-Profissional de TI desde 2011 e engenheiro de software por mais de 6 anos, atuando no domínio de _Retail_ (como desenvolvedor e consultor), com experiência em arquitetura de serviços web, desenvolvimento e governança de APIs, desenvolvimento ágil, DevOps e sistemas distribuídos. Bastante experiente com __Java, Groovy e NodeJS__. Familiaridade com Go, Clojure e Python. 
+Profissional de TI desde 2011 e engenheiro de software por mais de 7 anos, atuando no domínio de _Retail_ (como desenvolvedor e consultor), com experiência em arquitetura de serviços web, desenvolvimento e governança de APIs, desenvolvimento ágil, DevOps e sistemas distribuídos. Bastante experiente com __Java, Groovy, Kotlin e NodeJS__. Familiaridade com Go, Clojure e Python. 
 
 # Experiência
 
@@ -26,7 +26,7 @@ Desenvolvimento de diversas soluções de segurança e governança de APIs para 
 
 
 ### Consultor de Software _[São Paulo - 2016/2017]_
-Participação de projetos internos em São Paulo na área de front-end (6 meses) e recolocação para Porto Alegre. Em Porto Alegre trabalhei com um grande cliente norte-americano de Retail, onde pude ajudar com entrega ágil e transformação digital. 
+Participação de projetos internos em São Paulo na área de front-end (6 meses). Depois desses 6 meses pedi transferência para a filial de Porto Alegre. Em Porto Alegre trabalhei com um grande cliente norte-americano de Retail, onde pude ajudar com entrega ágil e transformação digital. 
 
 - Time pioneiro em nova arquitetura dentro do cliente, trabalhando com CI servers (__Jenkins__) descentralizados, Pipeline as code com __Groovy__, __Cloud Foundry__ como plataforma principal e __Apigee__ como Gateway para as APIs. Novo Standard gerado pelo time ajudou o cliente a conseguir o _time to market_ desejado, com aplicações em produção em 10 minutos.   
 
@@ -34,8 +34,6 @@ Participação de projetos internos em São Paulo na área de front-end (6 meses
 > - Implementação de blue-green deployment e deployment tracking (via __NewRelic__) para assegurar consistência da pipeline. 
 > - Auxílio ao time de recrutamento participando de avaliações no processo seletivo técnico.
 
-
-> Detalhes sobre clientes da ThoughtWorks são confidenciais e não serão expostos
 --------
 
 ## B2W Digital
