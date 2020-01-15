@@ -1,17 +1,24 @@
 > __Vitor Barbosa Tavares de Freitas__  
 Brazilian, from Rio de Janeiro  
 __Contact__: vitor.tfreitas@gmail.com | http://vtrbtf.com/ | https://br.linkedin.com/in/vtrbtf/en  
-__Current Role__: Senior Software Engineer @ OLX Brasil  
 
-Software engineer with 7+ years of work experience and with expertise in software architecture, agile software development and devops culture.
+Software engineer with 8+ years of work experience and with expertise in software architecture, agile software development and devops culture.
 
-I've contributed to different kind of teams (e.g. products teams, cloud engineering teams, support teams), to different domains (e.g. Retail, Ads) and to different business markets (e.g. C2C, B2C). I've also worked with the US market for 2 years (as a consultant for a big retail company)
+I've contributed to different kind of teams (e.g. products teams, cloud engineering teams, support teams), to different domains (e.g. Retail, Ads, Fintech) and to different business markets (e.g. C2C, B2C). I've also worked with the US market for 2 years (as a consultant for a big retail company)
 
-My background is Java based. However, I have a good amount of experience in other languages/platforms, like NodeJS, Kotlin, Groovy. I also have some good experience and interest in some subjects, such as SRE, XP Practises, APIs and RPCs services, messaging systems (and general distributed systems), data science, NoSQLs, CI/CD and release management, cloud providers, Infra as code, performance monitoring and profiling.
+My background is JVM based (Java, Kotlin, Clojure). However, I have a good amount of experience in other languages/platforms, like NodeJS, Groovy, Scala, Go and Python. I also have some good experience and interest in some subjects, such as SRE, XP Practises, APIs and RPCs services, messaging systems (and general distributed systems), data science, NoSQLs, CI/CD and release management, cloud providers, Infra as code, performance monitoring and profiling.
+
+
 # Experience
 
+## Nubank
+### Software Engineer _[2019/Today]_
+The largest fintech in Latin America and one of the most innovative companies in the world
+
+-----
+
 ## OLX Brasil
-### Senior Software Engineer _[2018/Today]_
+### Senior Software Engineer _[2018/2019]_
 Development of high volume and high throughput products that orchestrate the ad load import process and front face the company's internal products to third parties. OLX is the biggest brazillian C2C marketplace platform, so we also had to use and build scalable and modular architectures (on top of AWS) to handle such load.  
 
 _I can not provide further details due to a NDA._
@@ -44,13 +51,6 @@ Some experience that I had includes:
 ### Mid level Software Developer  _[2013/2016]_
 As a product engineer, I've contributed with the development of promotions and discounts related microservices for the biggest Brazilian ecommerce platform (B2W), mostly based on Java. We had to handle high load and deal with traffic spike in a daily basis. The team was autonomous, so we had to deal with every layer of the APIs architecture (planning, provisioning, persistence and so on). I was able to touch Operations and Infrastructure sides and as a consequence, contributing to our DevOps culture. I also had experiences dealing with Black Friday events and being a teacher for trainee developers.
 
-Developed products :
-- Promotions and discounts engine and service
-- Freight service
-- Installment service
-- Content engine
-- Coupon service
-
 Some experience that I had includes:
 - DevOps culture
 - Lean software development
@@ -61,11 +61,6 @@ Some experience that I had includes:
 
 ### Junior Software Developer  _[2012/2013]_
 Agile Delivery for the biggest e-commerce platform in Brazil (`B2W Digital`), maintaining and adding new features to many customer facing legacy projects, such as:
-
-- ShoppingBag and Checkout
-- Product Catalog
-- Brand CC request
-- Promotion manager
 
 Some experience that I had includes:
 - Agile Development with Scrum and Kanban
