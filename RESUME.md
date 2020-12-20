@@ -12,7 +12,7 @@ I have a good amount of experience in different languages/platforms, like Java, 
 # Experience
 
 ## Nubank
-### Software Engineer _[2019/Today]_
+#### Software Engineer _[2019/Today]_
 The largest fintech in Latin America and one of the most innovative companies in the world.  
 Main role of leading the infrasctructure side of one of the internal platforms. 
 
@@ -21,33 +21,29 @@ _I can not provide further details due to a NDA._
 -----
 
 ## OLX Brasil
-### Senior Software Engineer _[2018/2019]_
+#### Specialist Software Engineer _[2018/2019]_
 OLX is one of the biggest brazillian C2C marketplace platforms.
 Lead the development of the ad load import process solution, which handled 1Mi+ ads per day
 
-_I can not provide further details due to a NDA._
+- Architected and develop the whole ad import process pipeline (including image optimizaiton/importing)
+- Heavily usage of AWS lambdas, Infra as code and messaging systems.
 
 -----
 
 ## ThoughtWorks
-### Senior Software Consultant _[2017/2018]_
-Development of variety of API governance and security solutions for a big American retail company, working as a consultant, temporarily working in San Francisco. The role was similar of an SRE.
+#### Senior Software Consultant _[2017/2018]_
+Development of variety of API governance and security solutions for a big American retail company, working as a consultant, temporarily working in San Francisco. SRE-like role but with no specific title.
 
-Some experience that I had includes:
-- OAuth 2 and OIDC protocols implementation (every entity of the 3 legged flow)
-- Company API Gateway's setup, auxiliary services (such as API security)
-- Pivotal Cloud Foundry with Node.js and Java stacks
-- Azure and OpenStack
+- OAuth 2 and OIDC protocols client and server development
+- Company wide API Gateway's provisioning 
+- Heavily usage of Pivotal Cloud Foundry, Azure and OpenStack all running both NodeJS and Java services
 
 ### Software Consultant _[2016/2017]_
 Contributed to internal projects, mainly working on building an open source CMS, for 6 months. After that, I started to work for a NA retail client, mainly developing and maintaining internal APIs.
 
-Some experience that I had includes:
 - DevOps culture and Continuous Deployment
 - Pipeline as Code and build/release management
 - BlueGreen deployment and Deployment tracking
-- Pivotal Cloud Foundry
-- Rest and GraphQL with Spring Boot
 
 -----
 
