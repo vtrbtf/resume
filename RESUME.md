@@ -22,7 +22,8 @@ _I can not provide further details due to a NDA._
 
 ## OLX Brasil
 ### Senior Software Engineer _[2018/2019]_
-Development of high volume and high throughput products that orchestrate the ad load import process and front face the company's internal products to third parties. OLX is the biggest brazillian C2C marketplace platform, so we also had to use and build scalable and modular architectures (on top of AWS) to handle such load.  
+OLX is one of the biggest brazillian C2C marketplace platforms.
+Lead the development of the ad load import process solution, which handled 1Mi+ ads per day
 
 _I can not provide further details due to a NDA._
 
