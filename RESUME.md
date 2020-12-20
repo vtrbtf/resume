@@ -2,7 +2,7 @@
 Brazilian, from Rio de Janeiro  
 __Contact__: vitor.tfreitas@gmail.com | https://br.linkedin.com/in/vtrbtf/en  
 
-Software engineer with almost 10 years of work experience and with expertise in software architecture, agile software development and devops culture.
+Software engineer with 9+ years of work experience and with expertise in software architecture, agile software development and devops culture.
 
 I've contributed to different kind of teams (e.g. products teams, cloud engineering teams, support teams), to different domains (e.g. Retail, Ads, Fintech) and to different business markets (e.g. C2C, B2C). I've also worked with the US market for 2 years (as a consultant)
 
