@@ -22,7 +22,7 @@ _I can not provide further details due to a NDA._
 
 ## OLX Brasil
 #### Specialist Software Engineer _[2018/2019]_
-OLX is one of the biggest brazillian C2C marketplace platforms.
+OLX is one of the biggest brazillian C2C marketplace platforms.  
 Lead the development of the ad load import process solution, which handled 1Mi+ ads per day
 
 - Architected and develop the whole ad import process pipeline (including image optimizaiton/importing)
@@ -32,13 +32,14 @@ Lead the development of the ad load import process solution, which handled 1Mi+ 
 
 ## ThoughtWorks
 #### Senior Software Consultant _[2017/2018]_
-Development of variety of API governance and security solutions for a big American retail company, working as a consultant, temporarily working in San Francisco. SRE-like role but with no specific title.
+Development of variety of API governance and security solutions for a big American retail company, working as a consultant, temporarily working in San Francisco.  
+I had a SRE-like role but with no specific title.
 
-- OAuth 2 and OIDC protocols client and server development
-- Company wide API Gateway's provisioning 
-- Heavily usage of Pivotal Cloud Foundry, Azure and OpenStack all running both NodeJS and Java services
+- OAuth 2 and OIDC protocols client and server development/implementation.
+- Company wide API Gateway's provisioning.
+- Heavily usage of Pivotal Cloud Foundry, Azure and OpenStack all running both NodeJS and Java services.
 
-### Software Consultant _[2016/2017]_
+#### Software Consultant _[2016/2017]_
 Contributed to internal projects, mainly working on building an open source CMS, for 6 months. After that, I started to work for a NA retail client, mainly developing and maintaining internal APIs.
 
 - DevOps culture and Continuous Deployment
@@ -48,26 +49,21 @@ Contributed to internal projects, mainly working on building an open source CMS,
 -----
 
 ## B2W Digital
-### Mid level Software Developer  _[2013/2016]_
-As a product engineer, I've contributed with the development of promotions and discounts related microservices for the biggest Brazilian ecommerce platform (B2W), mostly based on Java. We had to handle high load and deal with traffic spike in a daily basis. The team was autonomous, so we had to deal with every layer of the APIs architecture (planning, provisioning, persistence and so on). I was able to touch Operations and Infrastructure sides and as a consequence, contributing to our DevOps culture. I also had experiences dealing with Black Friday events and being a teacher for trainee developers.
+#### Mid level Software Developer  _[2013/2016]_
+`B2W Digital` was at the time the biggest e-commerce platform in Brazil.  
+Working as a product engineer, I've contributed with the development of promotions and discounts related microservices, mostly based on Java. I also had experiences dealing with Black Friday events and being a teacher for trainee developers.
 
-Some experience that I had includes:
-- DevOps culture
-- Lean software development
-- Continuous Deployment
-- Async services and messaging systems
+- Legacy service slicing and miroservices architecture
+- Messaging systems
 - Cloud architecture (public / private) on AWS, OpenStack and Mesos/Marathon (Docker)
-- NoSQLs (Mongo, Riak, Solr e Elastic Search)
+- Heavily usage of NoSQLs (Mongo, Riak, Solr e Elastic Search)
 
-### Junior Software Developer  _[2012/2013]_
-Agile Delivery for the biggest e-commerce platform in Brazil (`B2W Digital`), maintaining and adding new features to many customer facing legacy projects, such as:
+#### Junior Software Developer  _[2012/2013]_
+Agile Delivery, maintaining and adding new features to many customer facing legacy projects.
 
-Some experience that I had includes:
-- Agile Development with Scrum and Kanban
-- Java as main TechStack. Weblogic as App Server
-- SOA with SOAP Services interactions between Customer Apps and Back Office apps
+- Working with agile Development with Scrum and Kanban
+- Java/Weblogic as main TechStack. SOA with SOAP Services interactions between Customer Apps and Back Office apps
 - Design Patterns and Enterprise Integration Patterns
-- TDD and software quality 
 
 --------
 
