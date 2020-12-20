@@ -1,19 +1,22 @@
 > __Vitor Barbosa Tavares de Freitas__  
 Brazilian, from Rio de Janeiro  
-__Contact__: vitor.tfreitas@gmail.com | http://vtrbtf.com/ | https://br.linkedin.com/in/vtrbtf/en  
+__Contact__: vitor.tfreitas@gmail.com | https://br.linkedin.com/in/vtrbtf/en  
 
-Software engineer with 8+ years of work experience and with expertise in software architecture, agile software development and devops culture.
+Software engineer with almost 10 years of work experience and with expertise in software architecture, agile software development and devops culture.
 
-I've contributed to different kind of teams (e.g. products teams, cloud engineering teams, support teams), to different domains (e.g. Retail, Ads, Fintech) and to different business markets (e.g. C2C, B2C). I've also worked with the US market for 2 years (as a consultant for a big retail company)
+I've contributed to different kind of teams (e.g. products teams, cloud engineering teams, support teams), to different domains (e.g. Retail, Ads, Fintech) and to different business markets (e.g. C2C, B2C). I've also worked with the US market for 2 years (as a consultant)
 
-My background is JVM based (Java, Kotlin, Clojure). However, I have a good amount of experience in other languages/platforms, like NodeJS, Groovy, Scala, Go and Python. I also have some good experience and interest in some subjects, such as SRE, XP Practises, APIs and RPCs services, messaging systems (and general distributed systems), data science, NoSQLs, CI/CD and release management, cloud providers, Infra as code, performance monitoring and profiling.
+I have a good amount of experience in different languages/platforms, like Java, Javascript(NodeJS), Clojure, Bash, Kotlin, Groovy, Scala, Go and Python. I also have some good experience and interest in some subjects, such as SRE, XP Practises, APIs and messaging systems (and general distributed systems), data science, NoSQLs, CI/CD and release management, cloud providers, Infra as code, performance monitoring and profiling.
 
 
 # Experience
 
 ## Nubank
 ### Software Engineer _[2019/Today]_
-The largest fintech in Latin America and one of the most innovative companies in the world
+The largest fintech in Latin America and one of the most innovative companies in the world.  
+Main role of leading the infrasctructure side of one of the internal platforms. 
+
+_I can not provide further details due to a NDA._
 
 -----
 
