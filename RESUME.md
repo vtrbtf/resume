@@ -12,7 +12,7 @@ I have a good amount of experience in different languages/platforms, like Java, 
 # Experience
 
 ## Nubank
-#### Software Engineer _[2019/Today]_
+#### Senior Software Engineer _[2019/Today]_
 The largest fintech in Latin America and one of the most innovative companies in the world.  
 Main role of leading the infrastructure side of one of the internal platforms. 
 
