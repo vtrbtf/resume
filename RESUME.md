@@ -1,20 +1,21 @@
 > __Vitor Barbosa Tavares de Freitas__  
 Brazilian, from Rio de Janeiro  
-__Contact__: vitor.tfreitas@gmail.com | https://br.linkedin.com/in/vtrbtf/en  
+__Contact__: vitor.tfreitas@gmail.com | https://linkedin.com/in/vtrbtf/en  
 
-Software engineer with 9+ years of work experience and with expertise in software architecture, agile software development, and DevOps culture.
+Software engineer with 10 years of experience, with expertise in software architecture, infrastructure engeneering, agile software development, DevOps and distributed systems.
 
-I've contributed to different kinds of teams (e.g. products teams, cloud engineering teams, support teams), to different domains (e.g. Retail, Ads, Fintech), and different business markets (e.g. C2C, B2C). I've also worked with the US market for 2 years (as a consultant)
+I've contributed to different kinds of teams (e.g. products teams, cloud engineering teams, support teams), to different domains (e.g. Retail, Ads, Banking), and different business markets (e.g. C2C, B2C). I've also worked with the US market for 2 years as a software consultant
 
-I have a good amount of experience in different languages/platforms, like Java, Javascript(NodeJS), Clojure, Bash, Kotlin, Groovy, Scala, Go, and Python. I also have some good experience and interest in some subjects, such as SRE, XP Practises, APIs and messaging systems (and general distributed systems), data science, NoSQLs, CI/CD and release management, cloud providers, Infra as code, performance monitoring, and profiling.
+I have a good amount of experience in different platforms, but my main one is the JVM, mostly working with Kotlin, Clojure and plain old Java. Nevertheless I'm also very experienced in other kinds of languages like Javascript(NodeJS), Bash, Groovy, Scala, Go, and Python. I also have some interest in some subjects, such as SRE, APIs and messaging systems (and general distributed systems), NoSQLs, CI/CD and release management, cloud providers, Infra as code, performance monitoring, and profiling.
 
 
 # Experience
 
 ## Nubank
-#### Senior Software Engineer _[2019/Today]_
-The largest fintech in Latin America and one of the most innovative companies in the world.  
-Main role of leading the infrastructure side of one of the internal platforms. 
+#### Lead Software Engineer _[2019/Today]_
+> Nubank is a leading financial technology company in Latin America and elected as the most innovative company in Latin America, also ranked no. 36 on Fast Company’s 50 Most Innovative Companies ranking
+
+Main role of leading the infrastructure/messaging side of instant payments/wire transfer squad.
 
 _I can not provide further details due to an NDA._
 
@@ -22,36 +23,38 @@ _I can not provide further details due to an NDA._
 
 ## OLX Brasil
 #### Specialist Software Engineer _[2018/2019]_
-OLX is one of the biggest Brazillian C2C marketplace platforms.  
-Lead the development of the ad load import process solution, which handled 1Mi+ ads per day
+> OLX is one of the biggest Brazillian C2C marketplace platforms.  
 
-- Architected and develop the whole ad import process pipeline (including image optimization/importing)
-- Heavily usage of AWS lambdas, Infra as code and messaging systems.
+Lead the development of the ad load ingestion process solution, which handled 1Mi+ ads per day. 
+
+- Development and architecture of the whole ad import process pipeline (including image optimization/importing)
+- Heavily usage of AWS lambdas, Infra as code and messaging systems using different kinds of programming languages.
 
 -----
 
 ## ThoughtWorks
 #### Senior Software Consultant _[2017/2018]_
-Development of a variety of API governance and security solutions for a big American retail company, working as a consultant, temporarily working in San Francisco.  
-I had an SRE-like role but with no specific title.
+Mostly working as a SRE consultant, I was part of the development of a variety of API governance and security solutions/tools for a big American retail client. 
+Also, temporarily working in San Francisco helping the client on architecture discussions.
 
-- OAuth 2 and OIDC protocols client and server development/implementation.
-- Company-wide API Gateway's provisioning.
-- Heavily usage of Pivotal Cloud Foundry, Azure, and OpenStack all running both NodeJS and Java services.
+- Built the OAuth 2 and OIDC (security protocols) integration on the company microservices.
+- Responsable for the provisioning and training on the company's API Gateway.
+- Heavily usage of Pivotal Cloud Foundry, Apigee, Azure, and OpenStack all running both NodeJS and Java services.
 
 #### Software Consultant _[2016/2017]_
-Contributed to internal projects, mainly working on building an open-source CMS, for 6 months. After that, I started to work for a NA retail client, mainly developing and maintaining internal APIs.
+Contributed to internal projects, mainly working on building an open-source CMS, for 6 months. After that, I started to work for an American retail client, mainly developing and maintaining internal APIs.
 
-- DevOps culture and Continuous Deployment
-- Pipeline as Code and build/release management
-- BlueGreen deployment and Deployment tracking
-
+- Introduced DevOps concepts to the team
+- Introduced Pipeline as Code and build/release management concepts 
+- Helped with API development best practices 
+ 
 -----
 
 ## B2W Digital
 #### Mid-level Software Developer  _[2013/2016]_
-`B2W Digital` was at the time the biggest e-commerce platform in Brazil.  
-Working as a product engineer, I've contributed to the development of promotions and discounts related microservices, mostly based on Java. I also had experiences dealing with Black Friday events and being a teacher for trainee developers.
+> `B2W Digital` was at the time the biggest e-commerce platform in Brazil
+
+Working as a product engineer, I've contributed to the development of promotions and discounts related microservices, mostly based on Java. I also had experiences dealing with Black Friday events and being a teacher for the internal trainee program.
 
 - Legacy service slicing and microservices architecture
 - Messaging systems
