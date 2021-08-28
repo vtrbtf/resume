@@ -2,12 +2,11 @@
 Brazilian, from Rio de Janeiro  
 __Contact__: vitor.tfreitas@gmail.com | https://linkedin.com/in/vtrbtf/en  
 
-Software engineer with 10 years of experience, with expertise in software architecture, infrastructure engeneering, agile software development, DevOps and distributed systems.
+Software engineer with 10 years in the market and extensive experience in software architecture, infrastructure engineering, agile software development, DevOps, and distributed systems.
 
-I've contributed to different kinds of teams (e.g. products teams, cloud engineering teams, support teams), to different domains (e.g. Retail, Ads, Banking), and different business markets (e.g. C2C, B2C). I've also worked with the US market for 2 years as a software consultant
+I've contributed to different kinds of teams (product, cloud engineering, support), in different domains (E-commerce, Ads, Banking), and with different business markets (e.g. C2C, B2C). I've also worked with the US market for almost 2 years as a software consultant
 
-I have a good amount of experience in different platforms, but my main one is the JVM, mostly working with Kotlin, Clojure and plain old Java. Nevertheless I'm also very experienced in other kinds of languages like Javascript(NodeJS), Bash, Groovy, Scala, Go, and Python. I also have some interest in some subjects, such as SRE, APIs and messaging systems (and general distributed systems), NoSQLs, CI/CD and release management, cloud providers, Infra as code, performance monitoring, and profiling.
-
+I have a good amount of experience in different platforms, but my main one is the JVM, mostly working with Kotlin, Clojure and plain old Java. Nevertheless, I'm also very experienced in other kinds of languages like JavaScript(NodeJS), Bash, Groovy, Scala, Go, and Python. I also have some interest in some subjects, such as SRE, APIs and messaging systems, NoSQLs, CI/CD and release management, cloud providers, Infra as code, performance monitoring, and profiling.
 
 # Experience
 
@@ -34,11 +33,11 @@ Lead the development of the ad load ingestion process solution, which handled 1M
 
 ## ThoughtWorks
 #### Senior Software Consultant _[2017/2018]_
-Mostly working as a SRE consultant, I was part of the development of a variety of API governance and security solutions/tools for a big American retail client. 
-Also, temporarily working in San Francisco helping the client on architecture discussions.
+Mostly working as an SRE consultant, I was part of the development of a variety of API governance and security solutions/tools for a big American retail client. 
+Also, temporarily working in San Francisco helping the client with architecture discussions.
 
 - Built the OAuth 2 and OIDC (security protocols) integration on the company microservices.
-- Responsable for the provisioning and training on the company's API Gateway.
+- Responsible for the provisioning and training on the company's API Gateway.
 - Heavily usage of Pivotal Cloud Foundry, Apigee, Azure, and OpenStack all running both NodeJS and Java services.
 
 #### Software Consultant _[2016/2017]_
