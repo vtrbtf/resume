@@ -2,11 +2,20 @@
 Brazilian, from Rio de Janeiro  
 __Contact__: vitor.tfreitas@gmail.com | https://linkedin.com/in/vtrbtf/en  
 
-Software engineer with 10 years in the market and extensive experience in software architecture, infrastructure engineering, agile software development, DevOps, and distributed systems.
+Software engineer with 10+ years of experience and extensive hands on practice in software architecture, infrastructure engineering (on prem and cloud), agile software development, messaging/database systems, SRE, CICD management, data intensive systems development and monitoring. 
 
-I've contributed to different kinds of teams (product, cloud engineering, support), in different domains (E-commerce, Ads, Banking), and with different business markets (e.g. C2C, B2C). I've also worked with the US market for almost 2 years as a software consultant
+I have experience in different platforms, but my main one is the JVM, mostly working with Kotlin, Clojure, Groovy and Java. I also have some interest in NodeJS, Go, Python and Rust.
 
-I have a good amount of experience in different platforms, but my main one is the JVM, mostly working with Kotlin, Clojure and plain old Java. Nevertheless, I'm also very experienced in other kinds of languages like JavaScript(NodeJS), Bash, Groovy, Scala, Go, and Python. I also have some interest in some subjects, such as SRE, APIs and messaging systems, NoSQLs, CI/CD and release management, cloud providers, Infra as code, performance monitoring, and profiling.
+I've contributed to different kinds of teams (product, cloud engineering, support), in different domains (E-commerce, Ads, Banking), and with different business markets (e.g. C2C, B2C). I've also worked with the US market for almost 2 years as a software consultant.
+
+Besides the technical skills, I've also lead some teams in different companies, mentor other engineers and act on hiring pipelines, mainly focused on architecture steps. 
+
+I had the opportunity to handle several challenges as a engineer. Some of those were:
+- Microservice migraton of several performance critical services from on prem monolith to cloud of biggest b2c player in Brazil
+- API global security layer based on OIDC to all company services
+- Integration layer of major C2C platform that handle Ad ingestion of hundreds of customers each one with hundreds or thousand ads per day. 
+- Brazillian instant payments integration of major components (SPI and DICT) with hands on acting on development and system design since day one to the actual implementation and day to day operations.
+
 
 # Experience
 
